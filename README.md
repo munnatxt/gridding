@@ -7,7 +7,7 @@ Gridee uses maximum 12 columns to build layouts (mobile first layout)
 Gridee seperated into two files "grid-wide.css" and "grid-box.css"
 Both uses same method to make your site responsive. The only difference is "grid-wide.css" containing the maximum with 1180 pixels and "grid-box" containing the maximum with 1100 pixels. "grid-box.css" is recommended for boxed web page layout
 
-<b>The grid system ( with minimum width ):<b><br>
+<b>The grid system ( with minimum width ):</b><br>
 
 <ul>
 <li>.tm-lg-* ( Desktop screen: 1224px )</li>
