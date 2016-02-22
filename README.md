@@ -1,10 +1,10 @@
-# Gridee v1.0
+# Gridding v1.0
 
-Gridee uses maximum 12 columns and five media breakpoints to build layouts (mobile first layout) 
+Gridding uses maximum 12 columns and five media breakpoints to build layouts (mobile first layout) 
 
 <b>Instructions:</b><br>
 
-Gridee seperated into two files "grid-wide.css" and "grid-box.css"
+Gridding seperated into two files "grid-wide.css" and "grid-box.css"
 Both uses same method to make your site responsive. The only difference is "grid-wide.css" containing the maximum with 1180 pixels and "grid-box" containing the maximum with 1100 pixels. "grid-box.css" is recommended for boxed web page layout
 
 <b>The grid system ( with minimum width ):</b><br>
