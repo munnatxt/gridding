@@ -1,4 +1,4 @@
-# gridee v1.0
+# Gridee v1.0
 
 Gridee uses maximum 12 columns to build layouts (mobile first layout) 
 
